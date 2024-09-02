@@ -2703,7 +2703,9 @@
   ],
   "refresh": "10s",
   "schemaVersion": 39,
-  "tags": [],
+  "tags": [
+    "datalayer"
+  ],
   "templating": {
     "list": [
       {
@@ -2745,7 +2747,7 @@
         "current": {},
         "datasource": {
           "type": "prometheus",
-          "uid": "${DS_PROMETHEUS}"
+          "uid": "${datasource}"
         },
         "definition": "",
         "hide": 0,

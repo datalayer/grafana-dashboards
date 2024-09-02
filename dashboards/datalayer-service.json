@@ -1083,7 +1083,9 @@
   ],
   "refresh": "10s",
   "schemaVersion": 39,
-  "tags": [],
+  "tags": [
+    "datalayer"
+  ],
   "templating": {
     "list": [
       {
