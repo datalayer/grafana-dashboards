@@ -2,7 +2,7 @@
 
 # Ξ Datalayer Grafana Dashboards
 
-This repository contains the dashboard definitions for the Datalayer Observer service. Read more on [Datalayer Tech](https://datalayer.tech/docs/build/kubernetes/services/system/observer). We are using the following tools:
+This repository contains the dashboard definitions for the Datalayer Observer service. Read more on [Datalayer Tech](https://datalayer.tech/docs/build/kubernetes/services/system/observer). We are using the following tools to create the dashboards:
 
 - `OpenTelemetry Collector`:
     - As deployment to proxy metrics and traces from Datalayer services to Prometheus and Tempo.
