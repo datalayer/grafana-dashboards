@@ -1167,11 +1167,11 @@
           },
           {
             "selected": false,
-            "text": "operator-companion",
-            "value": "operator-companion"
+            "text": "jupyter-companion",
+            "value": "jupyter-companion"
           }
         ],
-        "query": "iam, jupyter, operator, operator-companion",
+        "query": "iam, jupyter, operator, jupyter-companion",
         "queryValue": "",
         "skipUrlSync": false,
         "type": "custom"
