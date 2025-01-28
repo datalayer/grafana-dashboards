@@ -1151,6 +1151,11 @@
         "name": "service_name",
         "options": [
           {
+            "selected": false,
+            "text": "ai-agents",
+            "value": "ai-agents"
+          },
+          {
             "selected": true,
             "text": "iam",
             "value": "iam"
@@ -1162,16 +1167,26 @@
           },
           {
             "selected": false,
+            "text": "jupyter-companion",
+            "value": "jupyter-companion"
+          },
+          {
+            "selected": false,
+            "text": "library",
+            "value": "library"
+          },
+          {
+            "selected": false,
             "text": "operator",
             "value": "operator"
           },
           {
             "selected": false,
-            "text": "jupyter-companion",
-            "value": "jupyter-companion"
+            "text": "spacer",
+            "value": "spacer"
           }
         ],
-        "query": "iam, jupyter, operator, jupyter-companion",
+        "query": "ai-agents, iam, jupyter, jupyter-companion, library, operator, spacer",
         "queryValue": "",
         "skipUrlSync": false,
         "type": "custom"
