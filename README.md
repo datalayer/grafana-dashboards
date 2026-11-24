@@ -1,6 +1,6 @@
-[![Datalayer](https://assets.datalayer.tech/datalayer-25.svg)](https://datalayer.io)
+[![Datalayer](https://images.datalayer.io/legacy/datalayer-25.svg)](https://datalayer.ai)
 
-# Ξ Datalayer Grafana Dashboards
+# ☰ Datalayer Grafana Dashboards
 
 This repository contains the dashboard definitions for the Datalayer Observer service. Read more on [Datalayer Tech](https://datalayer.tech/docs/build/kubernetes/services/system/observer). We are using the following tools to create the dashboards:
 
